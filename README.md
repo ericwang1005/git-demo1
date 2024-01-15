@@ -164,4 +164,4 @@
 
 ### 複製特定Branch
 
-- git clone -b <branch name> 'Repository URL'
+- git clone -b <branch_name> 'Repository URL'
