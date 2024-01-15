@@ -161,3 +161,7 @@
 ### 複製專案
 
 - git clone https://github.com/ericwang1005/git-demo1
+
+### 複製特定Branch
+
+- git clone -b <branch name> 'Repository URL'
